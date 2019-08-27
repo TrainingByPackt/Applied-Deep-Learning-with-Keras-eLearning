@@ -1,11 +1,11 @@
-[![GitHub issues](https://img.shields.io/github/issues/TrainingByPackt/Applied-Data-Learning-with-Keras-eLearning.svg)](https://github.com/TrainingByPackt/Applied-Data-Learning-with-Keras-eLearning/issues)
-[![GitHub forks](https://img.shields.io/github/forks/TrainingByPackt/Applied-Data-Learning-with-Keras-eLearning.svg)](https://github.com/TrainingByPackt/Applied-Data-Learning-with-Keras-eLearning/network)
-[![GitHub stars](https://img.shields.io/github/stars/TrainingByPackt/Applied-Data-Learning-with-Keras-eLearning.svg)](https://github.com/TrainingByPackt/Applied-Data-Learning-with-Keras-eLearning/stargazers)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/TrainingByPackt/Applied-Data-Learning-with-Keras-eLearning/pulls)
+[![GitHub issues](https://img.shields.io/github/issues/TrainingByPackt/Applied-Deep-Learning-with-Keras-eLearning.svg)](https://github.com/TrainingByPackt/Applied-Deep-Learning-with-Keras-eLearning/issues)
+[![GitHub forks](https://img.shields.io/github/forks/TrainingByPackt/Applied-Deep-Learning-with-Keras-eLearning.svg)](https://github.com/TrainingByPackt/Applied-Deep-Learning-with-Keras-eLearning/network)
+[![GitHub stars](https://img.shields.io/github/stars/TrainingByPackt/Applied-Deep-Learning-with-Keras-eLearning.svg)](https://github.com/TrainingByPackt/Applied-Deep-Learning-with-Keras-eLearning/stargazers)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/TrainingByPackt/Applied-Deep-Learning-with-Keras-eLearning/pulls)
 
 
 
-# Applied-Data-Learning-with-Keras
+# Applied-Deep-Learning-with-Keras
 Applied Deep Learning with Keras takes you from a basic knowledge of machine learning and Python to an expert understanding of applying Keras to develop efficient deep learning solutions. This course teaches you new techniques to handle neural networks, and in turn, broadens your options as a data scientist. 	 
 
 ## What you will learn
